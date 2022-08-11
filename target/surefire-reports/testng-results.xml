@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-11T08:56:00Z" name="com.automationtestings.AppTest" finished-at="2022-08-11T08:56:00Z" duration-ms="13">
+    <groups>
+    </groups>
+    <test started-at="2022-08-11T08:56:00Z" name="Command line test" finished-at="2022-08-11T08:56:00Z" duration-ms="13">
+      <class name="com.automationtestings.AppTest">
+        <test-method signature="testLogin1()[pri:0, instance:com.automationtestings.AppTest@10e92f8f]" started-at="2022-08-11T01:56:00Z" name="testLogin1" finished-at="2022-08-11T01:56:00Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin1 -->
+        <test-method signature="testLogin2()[pri:0, instance:com.automationtestings.AppTest@10e92f8f]" started-at="2022-08-11T01:56:00Z" name="testLogin2" finished-at="2022-08-11T01:56:00Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin2 -->
+      </class> <!-- com.automationtestings.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.automationtestings.AppTest -->
+</testng-results>
